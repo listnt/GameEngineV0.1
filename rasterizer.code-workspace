@@ -1,0 +1,10 @@
+{
+    "folders": [{
+        "path": "."
+    }],
+    "settings": {
+        "clang-format.style": "google",
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.formatOnSave": true,
+    }
+}

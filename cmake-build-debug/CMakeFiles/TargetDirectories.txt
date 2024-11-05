@@ -1,0 +1,3 @@
+/Users/aidarkudabaev/masters/Graphics/rasterizer/cmake-build-debug/CMakeFiles/rasterizer.dir
+/Users/aidarkudabaev/masters/Graphics/rasterizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aidarkudabaev/masters/Graphics/rasterizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
